@@ -8,7 +8,10 @@ The second part of this project works by displaying databases available to the u
 
 I like the concept of doing this to track the information over time to see just how much more profitable gig-style work is in comparison to a full-time job as a team leader in the Food Service Industry. Analyzing information is fun when you have a large dataset to poke around but having the chance to experience a dataset being made around events in my own life has a small charm to it.
 
-![Plot Comparison](https://github.com/HendersonAlec2212/jj_earnings_tracker/blob/main/visualizations/JJ_vs_Chipotle_Earnings.png)
+![Plot Comparison](https://github.com/HendersonAlec2212/jj_earnings_tracker/blob/
+main/visualizations/JJ_vs_Chipotle_Earnings.png)
+
+![Earnings per Weekday](https://github.com/HendersonAlec2212/jj_earnings_tracker/blob/main/visualizations/avg_per_weekday.png)
 
 
 Email: hendersonalec2212@gmail.com
